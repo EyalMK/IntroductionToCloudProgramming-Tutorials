@@ -1,0 +1,27 @@
+{
+    "student_1": {
+        "name": "Eyal Maklada",
+        "email": "Eyal.Maklada@e.braude.ac.il",
+        "courses": [
+            "Introduction to Cloud Computing",
+            "Advanced Web Technologies",
+            "Compilation Theory",
+            "Datamining and Machine Learning",
+            "Physics for Software Engineering",
+            "Introduction to Artificial Intelligence"
+        ],
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    "student_2": {
+        "name": "Adir David",
+        "email": "Adir.David@e.braude.ac.il",
+        "courses": [
+            "Introduction to Cloud Computing",
+            "Advanced Web Technologies",
+            "Datamining and Machine Learning",
+            "Physics for Software Engineering",
+            "Introduction to Artificial Intelligence"
+        ],
+        "url": "https://www.braudeoverflow.live/"
+    }
+}
